@@ -1,0 +1,662 @@
+[
+  {
+    "lat": -25.7459277,
+    "lng": 28.1879101,
+    "cap": "Pretoria",
+    "lan": "af"
+  },
+  {
+    "lat": 41.3305141,
+    "lng": 19.825562857582966,
+    "cap": "Tirana",
+    "lan": "sq"
+  },
+  {
+    "lat": 9.0107934,
+    "lng": 38.7612525,
+    "cap": "Addis Ababa",
+    "lan": "am"
+  },
+  {
+    "lat": 24.638916,
+    "lng": 46.7160104,
+    "cap": "Riyadh",
+    "lan": "ar"
+  },
+  {
+    "lat": 40.1776245,
+    "lng": 44.5126174,
+    "cap": "Yerevan",
+    "lan": "hy"
+  },
+  {
+    "lat": 40.3755885,
+    "lng": 49.8328009,
+    "cap": "Baku",
+    "lan": "az"
+  },
+  {
+    "lat": 42.8465088,
+    "lng": -2.6724025,
+    "cap": "Vitoria-Gasteiz",
+    "lan": "eu"
+  },
+  {
+    "lat": 53.9024716,
+    "lng": 27.5618225,
+    "cap": "Minsk",
+    "lan": "be"
+  },
+  {
+    "lat": 23.7644025,
+    "lng": 90.389015,
+    "cap": "Dhaka",
+    "lan": "bn"
+  },
+  {
+    "lat": 43.8519774,
+    "lng": 18.3866868,
+    "cap": "Sarajevo",
+    "lan": "bs"
+  },
+  {
+    "lat": 42.6977028,
+    "lng": 23.3217359,
+    "cap": "Sofia",
+    "lan": "bg"
+  },
+  {
+    "lat": 41.3828939,
+    "lng": 2.1774322,
+    "cap": "Barcelona",
+    "lan": "ca"
+  },
+  {
+    "lat": 10.2931062,
+    "lng": 123.9020773,
+    "cap": "Cebu City",
+    "lan": "ceb"
+  },
+  {
+    "lat": -13.9875107,
+    "lng": 33.768144,
+    "cap": "Lilongwe",
+    "lan": "ny"
+  },
+  {
+    "lat": 39.906217,
+    "lng": 116.3912757,
+    "cap": "Beijing",
+    "lan": "zh"
+  },
+  {
+    "lat": 39.906217,
+    "lng": 116.3912757,
+    "cap": "Beijing",
+    "lan": "zh-cn"
+  },
+  {
+    "lat": 25.0375198,
+    "lng": 121.5636796,
+    "cap": "Taipei",
+    "lan": "zh-tw"
+  },
+  {
+    "lat": 41.9263991,
+    "lng": 8.7376029,
+    "cap": "Ajaccio",
+    "lan": "co"
+  },
+  {
+    "lat": 45.84264135,
+    "lng": 15.962231476593626,
+    "cap": "Zagreb",
+    "lan": "hr"
+  },
+  {
+    "lat": 50.0874654,
+    "lng": 14.4212535,
+    "cap": "Prague",
+    "lan": "cs"
+  },
+  {
+    "lat": 55.6867243,
+    "lng": 12.5700724,
+    "cap": "Copenhagen",
+    "lan": "da"
+  },
+  {
+    "lat": 52.3727598,
+    "lng": 4.8936041,
+    "cap": "Amsterdam",
+    "lan": "nl"
+  },
+  {
+    "lat": 43.65107,
+    "lng": -79.347015,
+    "cap": "Toronto",
+    "lan": "en"
+  },
+  {
+    "lat": 18.72800765,
+    "lng": 99.01081994534371,
+    "cap": "N/A",
+    "lan": "eo"
+  },
+  {
+    "lat": 59.4372155,
+    "lng": 24.7453688,
+    "cap": "Tallinn",
+    "lan": "et"
+  },
+  {
+    "lat": 14.5948914,
+    "lng": 120.9782618,
+    "cap": "Manila",
+    "lan": "tl"
+  },
+  {
+    "lat": 60.1674881,
+    "lng": 24.9427473,
+    "cap": "Helsinki",
+    "lan": "fi"
+  },
+  {
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "cap": "Paris",
+    "lan": "fr"
+  },
+  {
+    "lat": 53.2005936,
+    "lng": 5.7918548,
+    "cap": "Leeuwarden",
+    "lan": "fy"
+  },
+  {
+    "lat": 42.8804219,
+    "lng": -8.5458608,
+    "cap": "Santiago de Compostela",
+    "lan": "gl"
+  },
+  {
+    "lat": 41.6934591,
+    "lng": 44.8014495,
+    "cap": "Tbilisi",
+    "lan": "ka"
+  },
+  {
+    "lat": 52.5170365,
+    "lng": 13.3888599,
+    "cap": "Berlin",
+    "lan": "de"
+  },
+  {
+    "lat": 37.9839412,
+    "lng": 23.7283052,
+    "cap": "Athens",
+    "lan": "el"
+  },
+  {
+    "lat": 23.2232877,
+    "lng": 72.6492267,
+    "cap": "Gandhinagar",
+    "lan": "gu"
+  },
+  {
+    "lat": 18.547327,
+    "lng": -72.3395928,
+    "cap": "Port-au-Prince",
+    "lan": "ht"
+  },
+  {
+    "lat": 9.0643305,
+    "lng": 7.4892974,
+    "cap": "Abuja",
+    "lan": "ha"
+  },
+  {
+    "lat": 21.304547,
+    "lng": -157.855676,
+    "cap": "Honolulu",
+    "lan": "haw"
+  },
+  {
+    "lat": 31.79592425,
+    "lng": 35.21198075969497,
+    "cap": "Jerusalem",
+    "lan": "he"
+  },
+  {
+    "lat": 28.6138954,
+    "lng": 77.2090057,
+    "cap": "New Delhi",
+    "lan": "hi"
+  },
+  {
+    "lat": 18.72800765,
+    "lng": 99.01081994534371,
+    "cap": "N/A",
+    "lan": "hmn"
+  },
+  {
+    "lat": 47.4979937,
+    "lng": 19.0403594,
+    "cap": "Budapest",
+    "lan": "hu"
+  },
+  {
+    "lat": 64.145981,
+    "lng": -21.9422367,
+    "cap": "Reykjavik",
+    "lan": "is"
+  },
+  {
+    "lat": 9.0643305,
+    "lng": 7.4892974,
+    "cap": "Abuja",
+    "lan": "ig"
+  },
+  {
+    "lat": -6.1753942,
+    "lng": 106.827183,
+    "cap": "Jakarta",
+    "lan": "id"
+  },
+  {
+    "lat": 53.3498006,
+    "lng": -6.2602964,
+    "cap": "Dublin",
+    "lan": "ga"
+  },
+  {
+    "lat": 41.8933203,
+    "lng": 12.4829321,
+    "cap": "Rome",
+    "lan": "it"
+  },
+  {
+    "lat": 35.6828387,
+    "lng": 139.7594549,
+    "cap": "Tokyo",
+    "lan": "ja"
+  },
+  {
+    "lat": -7.8011945,
+    "lng": 110.364917,
+    "cap": "Yogyakarta",
+    "lan": "jw"
+  },
+  {
+    "lat": 12.9767936,
+    "lng": 77.590082,
+    "cap": "Bengaluru",
+    "lan": "kn"
+  },
+  {
+    "lat": 51.1282205,
+    "lng": 71.4306682,
+    "cap": "Nur-Sultan",
+    "lan": "kk"
+  },
+  {
+    "lat": 11.568271,
+    "lng": 104.9224426,
+    "cap": "Phnom Penh",
+    "lan": "km"
+  },
+  {
+    "lat": -1.950851,
+    "lng": 30.061507,
+    "cap": "Kigali",
+    "lan": "rw"
+  },
+  {
+    "lat": 37.5666791,
+    "lng": 126.9782914,
+    "cap": "Seoul",
+    "lan": "ko"
+  },
+  {
+    "lat": 36.1911653,
+    "lng": 44.0094294,
+    "cap": "Erbil",
+    "lan": "ku"
+  },
+  {
+    "lat": 42.8765615,
+    "lng": 74.6070079,
+    "cap": "Bishkek",
+    "lan": "ky"
+  },
+  {
+    "lat": 17.9640988,
+    "lng": 102.6133707,
+    "cap": "Vientiane",
+    "lan": "lo"
+  },
+  {
+    "lat": 41.9034912,
+    "lng": 12.4528349,
+    "cap": "Vatican City",
+    "lan": "la"
+  },
+  {
+    "lat": 56.9493977,
+    "lng": 24.1051846,
+    "cap": "Riga",
+    "lan": "lv"
+  },
+  {
+    "lat": 54.6870458,
+    "lng": 25.2829111,
+    "cap": "Vilnius",
+    "lan": "lt"
+  },
+  {
+    "lat": 49.6112768,
+    "lng": 6.129799,
+    "cap": "Luxembourg",
+    "lan": "lb"
+  },
+  {
+    "lat": 41.9960924,
+    "lng": 21.4316495,
+    "cap": "Skopje",
+    "lan": "mk"
+  },
+  {
+    "lat": -18.9100122,
+    "lng": 47.5255809,
+    "cap": "Antananarivo",
+    "lan": "mg"
+  },
+  {
+    "lat": 3.1516964,
+    "lng": 101.6942371,
+    "cap": "Kuala Lumpur",
+    "lan": "ms"
+  },
+  {
+    "lat": 8.4882267,
+    "lng": 76.947551,
+    "cap": "Thiruvananthapuram",
+    "lan": "ml"
+  },
+  {
+    "lat": 35.8989818,
+    "lng": 14.5136759,
+    "cap": "Valletta",
+    "lan": "mt"
+  },
+  {
+    "lat": -41.2887953,
+    "lng": 174.7772114,
+    "cap": "Wellington",
+    "lan": "mi"
+  },
+  {
+    "lat": 19.0785451,
+    "lng": 72.878176,
+    "cap": "Mumbai",
+    "lan": "mr"
+  },
+  {
+    "lat": 47.9184676,
+    "lng": 106.9177016,
+    "cap": "Ulaanbaatar",
+    "lan": "mn"
+  },
+  {
+    "lat": 19.7540045,
+    "lng": 96.1344976,
+    "cap": "Naypyidaw",
+    "lan": "my"
+  },
+  {
+    "lat": 27.708317,
+    "lng": 85.3205817,
+    "cap": "Kathmandu",
+    "lan": "ne"
+  },
+  {
+    "lat": 59.9133301,
+    "lng": 10.7389701,
+    "cap": "Oslo",
+    "lan": "no"
+  },
+  {
+    "lat": 20.2602964,
+    "lng": 85.8394521,
+    "cap": "Bhubaneswar",
+    "lan": "or"
+  },
+  {
+    "lat": 34.5260109,
+    "lng": 69.1776838,
+    "cap": "Kabul",
+    "lan": "ps"
+  },
+  {
+    "lat": 35.6892523,
+    "lng": 51.3896004,
+    "cap": "Tehran",
+    "lan": "fa"
+  },
+  {
+    "lat": 52.2319581,
+    "lng": 21.0067249,
+    "cap": "Warsaw",
+    "lan": "pl"
+  },
+  {
+    "lat": 38.7077507,
+    "lng": -9.1365919,
+    "cap": "Lisbon",
+    "lan": "pt"
+  },
+  {
+    "lat": 30.7334421,
+    "lng": 76.7797143,
+    "cap": "Chandigarh",
+    "lan": "pa"
+  },
+  {
+    "lat": 44.4361414,
+    "lng": 26.1027202,
+    "cap": "Bucharest",
+    "lan": "ro"
+  },
+  {
+    "lat": 55.7504461,
+    "lng": 37.6174943,
+    "cap": "Moscow",
+    "lan": "ru"
+  },
+  {
+    "lat": -13.8343691,
+    "lng": -171.7692793,
+    "cap": "Apia",
+    "lan": "sm"
+  },
+  {
+    "lat": 55.9533456,
+    "lng": -3.1883749,
+    "cap": "Edinburgh",
+    "lan": "gd"
+  },
+  {
+    "lat": 44.8178131,
+    "lng": 20.4568974,
+    "cap": "Belgrade",
+    "lan": "sr"
+  },
+  {
+    "lat": -29.310054,
+    "lng": 27.478222,
+    "cap": "Maseru",
+    "lan": "st"
+  },
+  {
+    "lat": -17.831773,
+    "lng": 31.045686,
+    "cap": "Harare",
+    "lan": "sn"
+  },
+  {
+    "lat": 24.8546842,
+    "lng": 67.0207055,
+    "cap": "Karachi",
+    "lan": "sd"
+  },
+  {
+    "lat": 6.9387469,
+    "lng": 79.8541134,
+    "cap": "Colombo",
+    "lan": "si"
+  },
+  {
+    "lat": 48.1435149,
+    "lng": 17.108279,
+    "cap": "Bratislava",
+    "lan": "sk"
+  },
+  {
+    "lat": 46.0500268,
+    "lng": 14.5069289,
+    "cap": "Ljubljana",
+    "lan": "sl"
+  },
+  {
+    "lat": 2.0349312,
+    "lng": 45.3419183,
+    "cap": "Mogadishu",
+    "lan": "so"
+  },
+  {
+    "lat": 40.4167047,
+    "lng": -3.7035825,
+    "cap": "Madrid",
+    "lan": "es"
+  },
+  {
+    "lat": -7.4419024,
+    "lng": 112.3956465,
+    "cap": "Bandung",
+    "lan": "su"
+  },
+  {
+    "lat": -6.1791181,
+    "lng": 35.7468174,
+    "cap": "Dodoma",
+    "lan": "sw"
+  },
+  {
+    "lat": 59.3251172,
+    "lng": 18.0710935,
+    "cap": "Stockholm",
+    "lan": "sv"
+  },
+  {
+    "lat": 38.5425835,
+    "lng": 68.81521423589763,
+    "cap": "Dushanbe",
+    "lan": "tg"
+  },
+  {
+    "lat": 13.0836939,
+    "lng": 80.270186,
+    "cap": "Chennai",
+    "lan": "ta"
+  },
+  {
+    "lat": 55.7823547,
+    "lng": 49.1242266,
+    "cap": "Kazan",
+    "lan": "tt"
+  },
+  {
+    "lat": 17.360589,
+    "lng": 78.4740613,
+    "cap": "Hyderabad",
+    "lan": "te"
+  },
+  {
+    "lat": 13.7524938,
+    "lng": 100.4935089,
+    "cap": "Bangkok",
+    "lan": "th"
+  },
+  {
+    "lat": 39.9207886,
+    "lng": 32.8540482,
+    "cap": "Ankara",
+    "lan": "tr"
+  },
+  {
+    "lat": 37.9404648,
+    "lng": 58.3823487,
+    "cap": "Ashgabat",
+    "lan": "tk"
+  },
+  {
+    "lat": 50.4500336,
+    "lng": 30.5241361,
+    "cap": "Kyiv",
+    "lan": "uk"
+  },
+  {
+    "lat": 33.6938118,
+    "lng": 73.0651511,
+    "cap": "Islamabad",
+    "lan": "ur"
+  },
+  {
+    "lat": 43.419754,
+    "lng": 87.319461,
+    "cap": "Ürümqi",
+    "lan": "ug"
+  },
+  {
+    "lat": 41.3123363,
+    "lng": 69.2787079,
+    "cap": "Tashkent",
+    "lan": "uz"
+  },
+  {
+    "lat": 21.0294498,
+    "lng": 105.8544441,
+    "cap": "Hanoi",
+    "lan": "vi"
+  },
+  {
+    "lat": 51.4816546,
+    "lng": -3.1791934,
+    "cap": "Cardiff",
+    "lan": "cy"
+  },
+  {
+    "lat": -31.589075,
+    "lng": 28.789145,
+    "cap": "Mthatha",
+    "lan": "xh"
+  },
+  {
+    "lat": 31.79592425,
+    "lng": 35.21198075969497,
+    "cap": "Jerusalem",
+    "lan": "yi"
+  },
+  {
+    "lat": 7.3777462,
+    "lng": 3.8972497,
+    "cap": "Ibadan",
+    "lan": "yo"
+  },
+  {
+    "lat": -29.6,
+    "lng": 30.3788889,
+    "cap": "Pietermaritzburg",
+    "lan": "zu"
+  }
+]
